@@ -1,4 +1,3 @@
-## SHAHBAZ AHMAD
 # Masters in Geotech Engineering
 # Texas A&M University, College Station
 # Texas-77801, US
