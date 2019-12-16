@@ -12,21 +12,3 @@ Below are the links to all the papers.
 [EMI Poster](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/EMI%202019%20%5Bposter%5D-compressed.pdf)
 
 [Dynamic Lattice Element Modelling of Cemented Geomaterials](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
