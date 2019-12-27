@@ -1,14 +1,17 @@
 ## Shahbaz Ahmad
 
+![](https://drive.google.com/file/d/1d5QJGmRraqKJGoO37NzIr14zTeDH_p1D/view?usp=sharing)
+
+
 #### Education
 Master’s Student |Geotechnical Engineering
-Zachry Department of Civil & Environmental Engineering,
+*Zachry Department of Civil & Environmental Engineering,
 Texas A&M University, USA
-Texas-77801, US
+Texas-77801, US*
 
 
 B.Tech. (Civil Engineering) 
-Aligarh Muslim University, India
+*Aligarh Muslim University, India*
 
 
 #### Publications
