@@ -1,5 +1,5 @@
 ## Shahbaz Ahmad
-<img src="https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png" />
+![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
 #### Education
 Master’s Student | Geotechnical Engineering<br/>
@@ -28,10 +28,9 @@ Research Intern at Univeristy of Kiel, Germany<br/>
 Engineer- Civil at KEC International Ltd., India<br/>
 
 
-#### Contact
-shahbaz.10ahmad@tamu.edu
+[Email](shahbaz.10ahmad@tamu.edu)<br/>
 
 [LinkedIn](https://www.linkedin.com/in/shahbaz10ahmad/)
-  [ResearchGate](https://www.researchgate.net/profile/Shahbaz_Ahmad20?ev=hdr_xprf&_sg=DvBUZ7M65fHxOAHU2zQBSNR2gy6fbfUA0N2rKFUwosw7lG1_XYdmwDz9KFKD9kFjsIMvTakv0QiShie1H5Fw0BIx)
-  [Twitter](https://twitter.com/shahbazTx)
+    [ResearchGate](https://www.researchgate.net/profile/Shahbaz_Ahmad20?ev=hdr_xprf&_sg=DvBUZ7M65fHxOAHU2zQBSNR2gy6fbfUA0N2rKFUwosw7lG1_XYdmwDz9KFKD9kFjsIMvTakv0QiShie1H5Fw0BIx)
+    [Twitter](https://twitter.com/shahbazTx)
 
