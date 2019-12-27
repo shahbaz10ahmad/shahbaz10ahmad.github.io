@@ -1,10 +1,10 @@
 ## Shahbaz Ahmad
 
 
-### Master’s Student | Geotechnical Engineering
-### Zachry Department of Civil & Environmental Engineering,
-### Texas A&M University, USA
-### Texas-77801, US
+Master’s Student | Geotechnical Engineering
+Zachry Department of Civil & Environmental Engineering,
+Texas A&M University, USA
+Texas-77801, US
 
 
 
