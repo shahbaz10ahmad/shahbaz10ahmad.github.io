@@ -4,14 +4,19 @@
 ### Texas A&M University, USA
 ### Texas-77801, US
 
+
+
 ### B.Tech. (Civil Engineering) 
 ### Aligarh Muslim University, India
+
 
 #### E-mail:
 #### shahbaz.10ahmad@tamu.edu
 
+
 #### Tel: 
 #### +1 979-703-0096
+
 
 #### LinkedIn:
 #### https://www.linkedin.com/in/shahbaz10ahmad/
