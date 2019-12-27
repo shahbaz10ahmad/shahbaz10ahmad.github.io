@@ -7,7 +7,6 @@ Texas A&M University, USA
 Texas-77801, US
 
 
-
 B.Tech. (Civil Engineering) 
 Aligarh Muslim University, India
 
@@ -23,11 +22,9 @@ Below are the links to all the papers.
 [Dynamic Lattice Element Modelling of Cemented Geomaterials](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
 
 
-#### E-mail:
-#### shahbaz.10ahmad@tamu.edu
+#### [E-mail:](shahbaz.10ahmad@tamu.edu) 
 
 
-#### LinkedIn:
-#### https://www.linkedin.com/in/shahbaz10ahmad/
+#### [LinkedIn](https://www.linkedin.com/in/shahbaz10ahmad/)
 
 
