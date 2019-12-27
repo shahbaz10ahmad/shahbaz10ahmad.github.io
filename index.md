@@ -28,6 +28,11 @@ B.Tech. (Civil Engineering)<br/>
 •	Engineer- Civil at KEC International Ltd., India(July, 2017 -June, 2018)<br/>
 •	Research Intern at Univeristy of Kiel, Germany(June-August, 2016)<br/>
 
+#### **Thesis**
+Multiscale Modeling for Thermal-Mechanical-Chemical CO2-Fluid-Rock Interaction January 
+• Characterized the microstructural evolution and Chemo-Mechanical interaction of Shales with CO2 rich brine using Nano-
+Indentation, Energy Dispersive X-Ray Spectrometry (EDX) and monitored spatial distribution of constituents using Micro-CT
+• Utilized Reactive Transport Modeling for Thermal–Mechanical–Chemical processes in the CO2 Fluid Rock interaction
 
 
 [Email](mailto:shahbaz.10ahmad@tamu.edu)<br/>
