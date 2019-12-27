@@ -1,12 +1,9 @@
 ## Shahbaz Ahmad
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://drive.google.com/file/d/1d5QJGmRraqKJGoO37NzIr14zTeDH_p1D/view?usp=sharing)
+![Shahbaz](https://drive.google.com/file/d/1d5QJGmRraqKJGoO37NzIr14zTeDH_p1D/view?usp=sharing)
 
 #### Education
 Master’s Student |Geotechnical Engineering
-
-
 *Zachry Department of Civil & Environmental Engineering,
 Texas A&M University, USA
 Texas-77801, US*
