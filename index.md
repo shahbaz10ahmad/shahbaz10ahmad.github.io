@@ -24,8 +24,11 @@ B.Tech. (Civil Engineering)<br/>
 
 #### **Experience**
 Student Assistant at Texas A&M University, USA<br/>
+
 Geotechnical Engineering Intern at Terracon Inc., USA<br/>
+
 Research Intern at Univeristy of Kiel, Germany<br/>
+
 Engineer- Civil at KEC International Ltd., India<br/>
 
 
