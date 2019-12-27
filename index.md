@@ -24,10 +24,10 @@ B.Tech. (Civil Engineering),
 4. [Dynamic Lattice Element Modelling of Cemented Geomaterials](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
 
 #### Experience
-Student Assistant at Texas A&M University, USA
-Geotechnical Engineering Intern at Terracon Inc., USA
-Research Intern at Univeristy of Kiel, Germany
-Engineer- Civil at KEC International Ltd., India
+##### _Student Assistant at Texas A&M University, USA_
+##### _Geotechnical Engineering Intern at Terracon Inc., USA_
+##### _Research Intern at Univeristy of Kiel, Germany_
+##### _Engineer- Civil at KEC International Ltd., India_
 
 
 #### E-mail:
