@@ -8,8 +8,8 @@
 
 
 
-### B.Tech. (Civil Engineering) 
-### Aligarh Muslim University, India
+B.Tech. (Civil Engineering) 
+Aligarh Muslim University, India
 
 
 Below are the links to all the papers.
