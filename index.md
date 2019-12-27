@@ -5,8 +5,8 @@
 #### Education
 Master’s Student | Geotechnical Engineering<br/>
 *Zachry Department of Civil & Environmental Engineering<br/>
-Texas A&M University, USA<br/>
-Texas-77801, US*<br/>
+Texas A&M University,<br/>
+Texas-77801, USA*<br/>
 
 
 B.Tech. (Civil Engineering)<br/>
@@ -30,8 +30,12 @@ Research Intern at Univeristy of Kiel, Germany<br/>
 Engineer- Civil at KEC International Ltd., India<br/>
 
 
-#### E-mail:
+#### Contact
 shahbaz.10ahmad@tamu.edu
 
 #### [LinkedIn](https://www.linkedin.com/in/shahbaz10ahmad/) 
+#### [Research Gate](https://www.researchgate.net/profile/Shahbaz_Ahmad20?ev=hdr_xprf&_sg=DvBUZ7M65fHxOAHU2zQBSNR2gy6fbfUA0N2rKFUwosw7lG1_XYdmwDz9KFKD9kFjsIMvTakv0QiShie1H5Fw0BIx)
+#### [facebook](https://www.facebook.com/ErShahbazAhmad)
+#### [Instagram](https://www.instagram.com/imshahbazahmd/)
+#### [Twitter](https://twitter.com/shahbazTx)
 
