@@ -17,7 +17,7 @@ Aligarh Muslim University, India
 
 [CFD Prediction of Loss Coefficient in Straight Pipes](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/haroon2017.pdf) [[View Online]](https://link.springer.com/chapter/10.1007/978-3-319-55125-8_41)
 
-[EMI Poster](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/EMI%202019%20%5Bposter%5D-compressed.pdf)
+[EMI Poster 2019, Caltech](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/EMI%202019%20%5Bposter%5D-compressed.pdf)
 
 [Dynamic Lattice Element Modelling of Cemented Geomaterials](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
 
@@ -25,6 +25,5 @@ Aligarh Muslim University, India
 #### E-mail:
 shahbaz.10ahmad@tamu.edu
 
-#### [LinkedIn](https://www.linkedin.com/in/shahbaz10ahmad/)
-
+#### [LinkedIn](https://www.linkedin.com/in/shahbaz10ahmad/) 
 
