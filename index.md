@@ -41,11 +41,6 @@ Engineer- Civil at KEC International Ltd., India<br/>
     link = "//linkedin.com/in/shahbaz10ahmad"
 
  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
-
- [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/shahbazTx"
