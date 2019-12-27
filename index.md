@@ -29,10 +29,7 @@ B.Tech. (Civil Engineering)<br/>
 •	Research Intern at Univeristy of Kiel, Germany(June-August, 2016)<br/>
 
 #### **Thesis**
-Multiscale Modeling for Thermal-Mechanical-Chemical CO2-Fluid-Rock Interaction January 
-• Characterized the microstructural evolution and Chemo-Mechanical interaction of Shales with CO2 rich brine using Nano-
-Indentation, Energy Dispersive X-Ray Spectrometry (EDX) and monitored spatial distribution of constituents using Micro-CT
-• Utilized Reactive Transport Modeling for Thermal–Mechanical–Chemical processes in the CO2 Fluid Rock interaction
+Multiscale Modeling for Thermal-Mechanical-Chemical CO2-Fluid-Rock Interaction
 
 
 [Email](mailto:shahbaz.10ahmad@tamu.edu)<br/>
