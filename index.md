@@ -35,12 +35,4 @@ Engineer- Civil at KEC International Ltd., India<br/>
 [ResearchGate](https://www.researchgate.net/profile/Shahbaz_Ahmad20?ev=hdr_xprf&_sg=DvBUZ7M65fHxOAHU2zQBSNR2gy6fbfUA0N2rKFUwosw7lG1_XYdmwDz9KFKD9kFjsIMvTakv0QiShie1H5Fw0BIx) 
 [Twitter](https://twitter.com/shahbazTx)
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/shahbaz10ahmad"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/shahbazTx"
+ 
