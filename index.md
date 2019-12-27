@@ -1,7 +1,7 @@
 ## Shahbaz Ahmad
 
 #### Education
-Master’s Student|Geotechnical Engineering
+Master’s Student |Geotechnical Engineering
 Zachry Department of Civil & Environmental Engineering,
 Texas A&M University, USA
 Texas-77801, US
@@ -11,7 +11,7 @@ B.Tech. (Civil Engineering)
 Aligarh Muslim University, India
 
 
-Below are the links to all the papers.
+#### Publications
 
 [Experimental study of thermal performance of the backfill material around underground power cable under steady and cyclic thermal loading](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/1-s2.0-S2214785319317742-main.pdf) [[View Online]](https://www.sciencedirect.com/science/article/pii/S2214785319317742)
 
