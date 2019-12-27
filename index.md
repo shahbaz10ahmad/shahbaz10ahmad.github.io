@@ -1,4 +1,4 @@
-### Shahbaz Ahmad
+## Shahbaz Ahmad
 
 ![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
@@ -14,13 +14,13 @@ B.Tech. (Civil Engineering)<br/>
 
 #### Publications
 
-**1. Experimental study of thermal performance of the backfill material around underground power cable under steady and cyclic thermal loading** [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/1-s2.0-S2214785319317742-main.pdf) [(View Online)](https://www.sciencedirect.com/science/article/pii/S2214785319317742)
+1. Experimental study of thermal performance of the backfill material around underground power cable under steady and cyclic thermal loading [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/1-s2.0-S2214785319317742-main.pdf)[(View Online)](https://www.sciencedirect.com/science/article/pii/S2214785319317742)
 
-**2. CFD Prediction of Loss Coefficient in Straight Pipes**[(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/haroon2017.pdf) [(View Online)](https://link.springer.com/chapter/10.1007/978-3-319-55125-8_41)
+2. CFD Prediction of Loss Coefficient in Straight Pipes [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/haroon2017.pdf) [(View Online)](https://link.springer.com/chapter/10.1007/978-3-319-55125-8_41)
 
-**3. EMI Poster 2019, Caltech**[(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/EMI%202019%20%5Bposter%5D-compressed.pdf)
+3. EMI Poster 2019, Caltech [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/EMI%202019%20%5Bposter%5D-compressed.pdf)
 
-**4. Dynamic Lattice Element Modelling of Cemented Geomaterials** [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
+4. Dynamic Lattice Element Modelling of Cemented Geomaterials [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
 
 #### Experience
 Student Assistant at Texas A&M University, USA<br/>
