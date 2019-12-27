@@ -1,8 +1,7 @@
+
 ## Shahbaz Ahmad
 
-![Shahbaz](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
-
-(https://drive.google.com/file/d/1d5QJGmRraqKJGoO37NzIr14zTeDH_p1D/view?usp=sharing)
+![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
 #### Education
 Master’s Student |Geotechnical Engineering
