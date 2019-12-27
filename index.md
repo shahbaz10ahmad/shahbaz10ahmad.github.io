@@ -1,4 +1,3 @@
-## Shahbaz Ahmad
 
 ![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
