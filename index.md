@@ -1,16 +1,16 @@
 ## Shahbaz Ahmad
 
-![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
+![ SA ](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
 #### Education
-Master’s Student | Geotechnical Engineering
-*Zachry Department of Civil & Environmental Engineering,
-Texas A&M University, USA
-Texas-77801, US*
+Master’s Student | Geotechnical Engineering<br/>
+*Zachry Department of Civil & Environmental Engineering<br/>
+Texas A&M University, USA<br/>
+Texas-77801, US*<br/>
 
 
-B.Tech. (Civil Engineering),
-*Aligarh Muslim University, India*
+B.Tech. (Civil Engineering)<br/>
+*Aligarh Muslim University, India*<br/>
 
 
 #### Publications
@@ -24,10 +24,10 @@ B.Tech. (Civil Engineering),
 4. [Dynamic Lattice Element Modelling of Cemented Geomaterials](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
 
 #### Experience
-_Student Assistant at Texas A&M University, USA_
-_Geotechnical Engineering Intern at Terracon Inc., USA_
-_Research Intern at Univeristy of Kiel, Germany_
-_Engineer- Civil at KEC International Ltd., India_
+Student Assistant at Texas A&M University, USA<br/>
+Geotechnical Engineering Intern at Terracon Inc., USA<br/>
+Research Intern at Univeristy of Kiel, Germany<br/>
+Engineer- Civil at KEC International Ltd., India<br/>
 
 
 #### E-mail:
