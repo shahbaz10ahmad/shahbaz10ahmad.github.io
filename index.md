@@ -35,7 +35,5 @@ shahbaz.10ahmad@tamu.edu
 
 #### [LinkedIn](https://www.linkedin.com/in/shahbaz10ahmad/) 
 #### [Research Gate](https://www.researchgate.net/profile/Shahbaz_Ahmad20?ev=hdr_xprf&_sg=DvBUZ7M65fHxOAHU2zQBSNR2gy6fbfUA0N2rKFUwosw7lG1_XYdmwDz9KFKD9kFjsIMvTakv0QiShie1H5Fw0BIx)
-#### [facebook](https://www.facebook.com/ErShahbazAhmad)
-#### [Instagram](https://www.instagram.com/imshahbazahmd/)
 #### [Twitter](https://twitter.com/shahbazTx)
 
