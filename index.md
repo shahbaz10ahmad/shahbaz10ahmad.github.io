@@ -3,8 +3,8 @@
 
 #### Education
 Master’s Student | Geotechnical Engineering<br/>
-*Zachry Department of Civil & Environmental Engineering<br/>
-Texas A&M University, College Station, USA<br/>
+*Zachry Department of Civil & Environmental Engineering<br/>*
+*Texas A&M University, College Station, USA<br/>*
 
 
 B.Tech. (Civil Engineering)<br/>
