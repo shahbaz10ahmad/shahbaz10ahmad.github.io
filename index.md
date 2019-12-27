@@ -24,8 +24,8 @@ B.Tech. (Civil Engineering)<br/>
 #### **Experience**
 •	Student Assistant at Texas A&M University, USA (March, 2019 -Present)<br/>
 •	Geotechnical Engineering Intern at Terracon Inc., USA (May-August, 2019)<br/>
-•	Engineer- Civil at KEC International Ltd., India(July, 2017 -June, 2018)<br/>
-•	Research Intern at Univeristy of Kiel, Germany(June-August, 2016)<br/>
+•	Engineer- Civil at KEC International Ltd., India (July, 2017 -June, 2018)<br/>
+•	Research Intern at Univeristy of Kiel, Germany (June-August, 2016)<br/>
 
 #### **Thesis**
 Multiscale Modeling for Thermal-Mechanical-Chemical CO2-Fluid-Rock Interaction
