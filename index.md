@@ -2,7 +2,7 @@
 
 ![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
-#### Education
+#### **Education**
 Master’s Student | Geotechnical Engineering<br/>
 *Zachry Department of Civil & Environmental Engineering<br/>*
 *Texas A&M University, College Station, USA<br/>*
@@ -12,7 +12,7 @@ B.Tech. (Civil Engineering)<br/>
 *Aligarh Muslim University, India*<br/>
 
 
-#### Publications
+#### **Publications**
 
 1. Experimental study of thermal performance of the backfill material around underground power cable under steady and cyclic thermal loading [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/1-s2.0-S2214785319317742-main.pdf)[(View Online)](https://www.sciencedirect.com/science/article/pii/S2214785319317742)
 
@@ -22,7 +22,7 @@ B.Tech. (Civil Engineering)<br/>
 
 4. Dynamic Lattice Element Modelling of Cemented Geomaterials [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
 
-#### Experience
+#### **Experience**
 Student Assistant at Texas A&M University, USA<br/>
 Geotechnical Engineering Intern at Terracon Inc., USA<br/>
 Research Intern at Univeristy of Kiel, Germany<br/>
