@@ -5,7 +5,7 @@
 
 Below are the links to all the papers.
 
-[Experimental study of thermal performance of the backfill material around underground power cable under steady and cyclic thermal loading][https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/1-s2.0-S2214785319317742-main.pdf]
+[Experimental study of thermal performance of the backfill material around underground power cable under steady and cyclic thermal loading] (https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/1-s2.0-S2214785319317742-main.pdf) [View Online] (https://www.sciencedirect.com/science/article/pii/S2214785319317742)
 
 [CFD Prediction of Loss Coefficient in Straight Pipes](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/haroon2017.pdf)
 
