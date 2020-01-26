@@ -19,7 +19,7 @@ B.Tech. (Civil Engineering)<br/>
 
 3. EMI Poster 2019, Caltech [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/EMI%202019%20%5Bposter%5D-compressed.pdf)
 
-4. Dynamic Lattice Element Modelling of Cemented Geomaterials [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)
+4. Dynamic Lattice Element Modelling of Cemented Geomaterials [(Download) ](https://github.com/shahbaz10ahmad/shahbaz10ahmad.github.io/raw/master/469423_1_En_53_Chapter_Author%20(2).pdf)[(View Online)](https://link.springer.com/chapter/10.1007/978-981-15-0886-8_53) 
 
 #### **Experience**
 •	Student Assistant at Texas A&M University, USA (March, 2019 - Present)<br/>
