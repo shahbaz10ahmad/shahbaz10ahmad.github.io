@@ -1,30 +1,6 @@
 
 ![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### **Education**
 M.S. | Geotechnical Engineering<br/>
 *Zachry Department of Civil & Environmental Engineering<br/>*
