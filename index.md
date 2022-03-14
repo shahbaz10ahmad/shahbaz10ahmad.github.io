@@ -1,6 +1,3 @@
-
-![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
-
 #### **Education**
 M.S. | Geotechnical Engineering<br/>
 *Zachry Department of Civil & Environmental Engineering<br/>*
@@ -39,6 +36,9 @@ B.Tech. (Civil Engineering)<br/>
 
 #### **Thesis**
 Multiscale Modeling for Thermal-Mechanical-Chemical CO2-Fluid-Rock Interaction
+
+![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
+
 
 
 [Email](mailto:shahbaz.10ahmad@gmail.com)<br/>
