@@ -1,6 +1,30 @@
 
 ![](https://github.com/shahbaz10ahmad/shahbaz/blob/master/Picture1.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### **Education**
 M.S. | Geotechnical Engineering<br/>
 *Zachry Department of Civil & Environmental Engineering<br/>*
@@ -32,7 +56,7 @@ B.Tech. (Civil Engineering)<br/>
 
 #### **Professional Expertise** 
 • Design of shallow and deep foundations, earth retaining structures, ground improvement, flood risk reduction structures, embankments and cut slopes.<br/>
-• Field Engagements: soil and rock borings, test pits, CPT soundings, geophysical testing, geotechnical instrumentation design and construction, and inspection of the construction of geotechnical features viz. drilled shafts, retaining walls, foundations.<br/>
+• Field Engagements: soil and rock borings, test pits, CPT soundings, geophysical testing, geotechnical instrumentation design and construction, soil improvement and inspection of the construction of geotechnical features viz. drilled shafts, retaining walls, foundations.<br/>
 • Geotechnical computer programs: GeoStudio, UTexas4, LPILE, GROUP, SHAFT, Plaxis, Settle3D, and MathCAD. <br/>
 • Geo-Report: Review design plans and specifications with geotechnical recommendations and design improvement recommendations. <br/>
 
